@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Studious Winner",
+    "icon": "./logo.png",
+    "version": "0.0.2",
+    "slug": "studious-winner",
+    "sdkVersion": "21.0.0",
+    "ios": {
+      "bundleIdentifier": "com.idagalaxy.studiousadventure"
+    },
+    "android": {
+      "package": "com.idagalaxy.studiousadventure"
+    }
+  }
+}
